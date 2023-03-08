@@ -9,5 +9,5 @@ outras linguagens e outros possíveis usos como ferramenta de aprendizagem.
 
 ## Aviso
 
-Nada aqui deve ser usado em produção, sem que você sabe o que está fazendo. Não
-somo responsáveis por quaisquer dano ou prejuízo. Uso por sua conta e risco.
+Nada aqui deve ser usado em produção sem que você saiba o que está fazendo. Não
+somos responsáveis por quaisquer dano ou prejuízo. Use por sua conta e risco.
